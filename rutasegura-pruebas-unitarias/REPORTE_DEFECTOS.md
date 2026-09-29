@@ -76,7 +76,7 @@ Reportamos aquí cada prueba que falla porque el código no cumple la especifica
 
 | Defecto | Regla | Severidad | Suite que revienta |
 |---|---|---|---|
-| DEF-01 | RN-01 | Alta | `tests/eta.test.ts` |
+| DEF-01 | RN-01, RN-04, RN-05 | Alta | `tests/eta.test.ts` |
 | DEF-02 | RN-06 | Baja | `tests/validaciones.test.ts` |
 | DEF-03 | RN-08 | Media | `tests/alertas.test.ts` |
 | DEF-04 | RN-11 | Alta | `tests/notificador.test.ts` |
